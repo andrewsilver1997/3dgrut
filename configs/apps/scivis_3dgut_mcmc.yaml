@@ -34,4 +34,4 @@ export_ply:
 
 strategy:
   add:
-    max_n_gaussians: 256 # Maximum number of Gaussians
+    max_n_gaussians: 16384 # Maximum number of Gaussians
